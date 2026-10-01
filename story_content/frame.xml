@@ -6,7 +6,6 @@
     <layout name="npxnabnsnfns11111100101" font="Gap Inc Sans" controllayout="npxnabnsnfns11111100101" colorscheme="npnxnanbnsnfns11111100101" string_table="npnxnanbnsnfns11111100101" />
     <layout name="npnxnanbnsnfns11111100101" font="Gap Inc Sans" controllayout="npnxnanbnsnfns11111100101" colorscheme="npnxnanbnsnfns11111100101" string_table="npnxnanbnsnfns11111100101" />
     <layout name="pxabnsnfns11111100100" font="Gap Inc Sans" controllayout="pxabnsnfns11111100100" colorscheme="npnxnanbnsnfns11111100101" string_table="npnxnanbnsnfns11111100101" />
-    <layout name="pnxanbnsnfns11111100101" font="Gap Inc Sans" controllayout="pnxanbnsnfns11111100101" colorscheme="npnxnanbnsnfns11111100101" string_table="npnxnanbnsnfns11111100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -20,7 +19,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/6hgjxgiCSyn.png" />
+              <option name="html5_logo_url" value="mobile/5mJ8Y9emtUE.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -221,31 +220,6 @@
         </controls>
       </control>
       <control name="close_btn" enabled="false" />
-    </control_layout>
-    <control_layout name="pnxanbnsnfns11111100101">
-      <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
-      <control name="logo" enabled="true" />
-      <control name="previous" enabled="true" />
-      <control name="next" enabled="false" />
-      <control name="swipeleft" enabled="true" />
-      <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="true" />
-      <control name="playbackSpeedControl" enabled="true" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
     </control_layout>
   </control_layouts>
   <colorschemes>
@@ -1606,6 +1580,7 @@
             <slidelink slideid="_player.6MoCNUpR66E.5cgKHHo3P9Z" displaytext="Welcome" expand="false" type="slide" />
             <slidelink slideid="_player.6MoCNUpR66E.5mBXd7o8hbW" displaytext="Learning Objectives" expand="false" type="slide" />
             <slidelink slideid="_player.6MoCNUpR66E.6ef8QSdeByG" displaytext="Present-Day Process Map" expand="false" type="slide" />
+            <slidelink slideid="_player.6MoCNUpR66E.6U7XekzbS3C" displaytext="OPAL: One shared way of working" expand="false" type="slide" />
             <slidelink slideid="_player.6MoCNUpR66E.5r7blXukzU6" displaytext="The Five Key Changes" expand="false" type="slide" />
             <slidelink slideid="_player.6MoCNUpR66E.5XJpec35qcR" displaytext="Application Demonstration" expand="false" type="slide" />
           </links>
@@ -1613,38 +1588,35 @@
         <slidelink slideid="_player.5l8jZcInHfK" displaytext="Brand PDC Sourcing PD" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5l8jZcInHfK.5WGaaZASBAC" displaytext="Launch OPAL" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.68tXvgYDoQv" displaytext="Sign in box" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.5zO6r6nOQtc" displaytext="Free License, Raise CIA Ticket" expand="false" type="slide" />
             <slidelink slideid="_player.5l8jZcInHfK.5kYfuvab7xs" displaytext="Select Brand Report" expand="false" type="slide" />
             <slidelink slideid="_player.5l8jZcInHfK.6HQZhcYF2f8" displaytext="Select BR" expand="false" type="slide" />
             <slidelink slideid="_player.5l8jZcInHfK.6JdAx0mJHle" displaytext="Select ellipsis" expand="false" type="slide" />
             <slidelink slideid="_player.5l8jZcInHfK.6Dp63FkzPAZ" displaytext="Select Filter" expand="false" type="slide" />
             <slidelink slideid="_player.5l8jZcInHfK.65eOb6GXoeU" displaytext="Select File" expand="false" type="slide" />
             <slidelink slideid="_player.5l8jZcInHfK.5WrOSKWMPey" displaytext="Save the report copy" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6W43pCORbvH" displaytext="Vendors" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6W43pCORbvH.5bP453EqvY2" displaytext="Add a filter button" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.604UABVz2mf" displaytext="Selecting columns to apply filters" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.6pYysngUkpP" displaytext="Query builder button" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.5kiiuWc97Pz" displaytext="Query builder dropdown list" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.66Zn3L6AtJ3" displaytext="Select multiple criteria" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.5WYHnWrO4TN" displaytext="Save filter" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.6EePRyJhJIT" displaytext="Creating multiple filters" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.5n2jUIgCqFO" displaytext="Select the other column to filter" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.6nCbqgQcPQV" displaytext="Query builder list" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.5o6amriUnRZ" displaytext="Multiple query checkboxes" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.5eSXEwNPaan" displaytext="Save filter button 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.6Pag96kv67a" displaytext="Saving a filter" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.65My3XwSXdA" displaytext="Shared filter" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.5kC05FLbOwX" displaytext="Saved filters button" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.5YDSwB4A4R1" displaytext="Scroll to view editable columns" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.5WiG9imN9Wj" displaytext="Select field to update" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.6g2ewqKfnxK" displaytext="Enter the information" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.5ebu1ALZjTk" displaytext="Scroll right" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.6m4A6pF87rg" displaytext="Boolean field" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.6lShAjGxMjX" displaytext="Select arrow" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.5tzC8UzWWPJ" displaytext="Select dropdown" expand="false" type="slide" />
-            <slidelink slideid="_player.6W43pCORbvH.5sF2OfDUA8r" displaytext="Thank You!" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.5yWDuIMLB9f" displaytext="Enter a Name &amp;amp; Select Browse" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.5vbVToXsodh" displaytext="Save Filter" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.5Wb8obItnTs" displaytext="Save Report Copy to Personal Workspace" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.5b4kbADgU1p" displaytext="Select Filter Button" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.6VS8LdXVv4r" displaytext="Select + Add a Condition" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.6H6F1I8xYCn" displaytext="Select Field Dropdown" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.5v1v2FkHh0U" displaytext="Select Field from Dropdown Menu List" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.5wnfHPR90xB" displaytext="Select Field" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.5kPejh2Jrew" displaytext="Select Criteria" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.6ckI1xgFTqR" displaytext="Select Appropriate Criteria" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.5cGryNWFpkr" displaytext="Enter Values to Filter" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.6WTKXh2AMDw" displaytext="Save Filter" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.62B9FH8Uao9" displaytext="Multiple Conditions on a Single Filter" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.5ioNTL1PB0M" displaytext="Scroll Right" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.5yJN3gdiLy1" displaytext="Select Editable Field" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.6DYT4FGVjJp" displaytext="Select Right Arrow" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.6H3MX9mTPN3" displaytext="Select Date" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.673PpgsC0an" displaytext="Multi Line Text Fields" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.6UqNCZYUZSu" displaytext="Enter Text in Multi Line Text Field" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.5WnHsVHBY4g" displaytext="Conclusion" expand="false" type="slide" />
+            <slidelink slideid="_player.5l8jZcInHfK.6XdSq1oIug4" displaytext="Thank You!" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
@@ -1652,8 +1624,7 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Gap Inc Sans' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/OPAL Pre Production Approval Activities Tracker - Brand PDC Sourcing PD.pdf" image="story_content/5oNGlSdqYoS.png" title="OPAL Pre Production Approval Activities Tracker - Brand PDC Sourcing PD" />
-      <resource url="story_content/external_files/OPAL Pre Production Approval Activities Tracker - Vendors.pdf" image="story_content/6WZRNihMESq.png" title="OPAL Pre Production Approval Activities Tracker - Vendors" />
+      <resource url="story_content/external_files/OPAL Pre Production Approval Activities Tracker - Brand PDC Sourcing PD.pptx" image="story_content/5yFWhXqoxZS.png" title="OPAL Pre Production Approval Activities Tracker - Brand PDC Sourcing PD" />
     </resources>
   </resource_data>
   <transcript_data />
